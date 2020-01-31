@@ -1,0 +1,11 @@
+{
+  "name": "react-scratch",
+  "version": "1.0.0",
+  "description": "Learning React under the hood",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Malik Shalash",
+  "license": "ISC"
+}
