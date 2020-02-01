@@ -1,0 +1,9 @@
+// Babel assists in compiling our React application
+
+/*  We need to tell it to use env preset for transforming ES6+ code
+ *  and react preset to transform JSX into more traditional JavaScript
+ */
+
+{
+  "presets": ["@babel/env", "@babel/preset-react"]
+}
